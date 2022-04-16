@@ -1,15 +1,35 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.7fd766b3.js",
-    "static/media/trainee_ar.png": "/static/media/trainee_ar.bcc5514a4cb7063270e4.png",
-    "static/media/Trainee.png": "/static/media/Trainee.0fb286580955238a6617.png",
+    "app.js": "/static/js/app.cd29e47a.chunk.js",
+    "app.js.map": "/static/js/app.cd29e47a.chunk.js.map",
+    "runtime~app.js": "/static/js/runtime~app.2e9f1821.js",
+    "runtime~app.js.map": "/static/js/runtime~app.2e9f1821.js.map",
+    "static/js/2.e0df3466.chunk.js": "/static/js/2.e0df3466.chunk.js",
+    "static/js/2.e0df3466.chunk.js.map": "/static/js/2.e0df3466.chunk.js.map",
+    "fonts/Arslan.ttf": "/./fonts/Arslan.ttf",
+    "favicon-16.png": "/favicon-16.png",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon.ico": "/favicon.ico",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.7fd766b3.js.map": "/static/js/main.7fd766b3.js.map"
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "static/js/2.e0df3466.chunk.js.LICENSE.txt": "/static/js/2.e0df3466.chunk.js.LICENSE.txt",
+    "static/media/login_avatar_3.png": "/static/media/login_avatar_3.1456fb69.png",
+    "static/media/login_forgot_password2.png": "/static/media/login_forgot_password2.e3037937.png",
+    "static/media/login_key2.png": "/static/media/login_key2.6dcb410d.png",
+    "static/media/login_signup2.png": "/static/media/login_signup2.225cd5df.png",
+    "static/media/login_unlock2.png": "/static/media/login_unlock2.afda66d5.png",
+    "static/media/signup_address.png": "/static/media/signup_address.c975377a.png",
+    "static/media/signup_closedEye.png": "/static/media/signup_closedEye.5df092d9.png",
+    "static/media/signup_domain_type.png": "/static/media/signup_domain_type.359bb6e9.png",
+    "static/media/signup_email.png": "/static/media/signup_email.e215cf31.png",
+    "static/media/signup_number.png": "/static/media/signup_number.a4d02202.png",
+    "static/media/signup_opendEye.png": "/static/media/signup_opendEye.e655fc41.png",
+    "static/media/trainee_ar.png": "/static/media/trainee_ar.0e247acc.png"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.7fd766b3.js"
+    "static/js/runtime~app.2e9f1821.js",
+    "static/js/2.e0df3466.chunk.js",
+    "static/js/app.cd29e47a.chunk.js"
   ]
 }
