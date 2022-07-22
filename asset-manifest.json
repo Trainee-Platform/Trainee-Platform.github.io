@@ -1,21 +1,22 @@
 {
   "files": {
-    "app.js": "/static/js/app.ebad227e.chunk.js",
-    "app.js.map": "/static/js/app.ebad227e.chunk.js.map",
+    "app.js": "/static/js/app.e8f668a6.chunk.js",
+    "app.js.map": "/static/js/app.e8f668a6.chunk.js.map",
     "runtime~app.js": "/static/js/runtime~app.2e9f1821.js",
     "runtime~app.js.map": "/static/js/runtime~app.2e9f1821.js.map",
-    "static/js/2.8fdddfdf.chunk.js": "/static/js/2.8fdddfdf.chunk.js",
-    "static/js/2.8fdddfdf.chunk.js.map": "/static/js/2.8fdddfdf.chunk.js.map",
-    "fonts/Arslan.ttf": "/./fonts/Arslan.ttf",
+    "static/js/2.b1edc870.chunk.js": "/static/js/2.b1edc870.chunk.js",
+    "static/js/2.b1edc870.chunk.js.map": "/static/js/2.b1edc870.chunk.js.map",
+    "fonts/AbdoMaster.ttf": "/./fonts/AbdoMaster.ttf",
     "favicon-16.png": "/favicon-16.png",
     "favicon-32.png": "/favicon-32.png",
     "favicon.ico": "/favicon.ico",
     "index.html": "/index.html",
     "manifest.json": "/manifest.json",
     "serve.json": "/serve.json",
-    "static/js/2.8fdddfdf.chunk.js.LICENSE.txt": "/static/js/2.8fdddfdf.chunk.js.LICENSE.txt",
+    "static/js/2.b1edc870.chunk.js.LICENSE.txt": "/static/js/2.b1edc870.chunk.js.LICENSE.txt",
     "static/media/Settings.png": "/static/media/Settings.cecb1d78.png",
     "static/media/descriptionIcon.png": "/static/media/descriptionIcon.9e6384a1.png",
+    "static/media/expandMore.png": "/static/media/expandMore.79ac5f89.png",
     "static/media/login_avatar_3.png": "/static/media/login_avatar_3.1456fb69.png",
     "static/media/login_forgot_password2.png": "/static/media/login_forgot_password2.e3037937.png",
     "static/media/login_key2.png": "/static/media/login_key2.6dcb410d.png",
@@ -32,6 +33,7 @@
     "static/media/poster.png": "/static/media/poster.3966b8e6.png",
     "static/media/publish.png": "/static/media/publish.4c3abedb.png",
     "static/media/save.png": "/static/media/save.7d997c8c.png",
+    "static/media/showLess.png": "/static/media/showLess.ce5d94cd.png",
     "static/media/signup_address.png": "/static/media/signup_address.c975377a.png",
     "static/media/signup_closedEye.png": "/static/media/signup_closedEye.5df092d9.png",
     "static/media/signup_date.png": "/static/media/signup_date.472e85e3.png",
@@ -39,13 +41,15 @@
     "static/media/signup_email.png": "/static/media/signup_email.e215cf31.png",
     "static/media/signup_number.png": "/static/media/signup_number.a4d02202.png",
     "static/media/signup_opendEye.png": "/static/media/signup_opendEye.e655fc41.png",
+    "static/media/submitCancel.png": "/static/media/submitCancel.91e883ea.png",
+    "static/media/submitConfirm.png": "/static/media/submitConfirm.81b0d147.png",
     "static/media/system_log.png": "/static/media/system_log.77733a0f.png",
     "static/media/trainee.png": "/static/media/trainee.f6b7eeb9.png",
     "static/media/trainee_ar.png": "/static/media/trainee_ar.0e247acc.png"
   },
   "entrypoints": [
     "static/js/runtime~app.2e9f1821.js",
-    "static/js/2.8fdddfdf.chunk.js",
-    "static/js/app.ebad227e.chunk.js"
+    "static/js/2.b1edc870.chunk.js",
+    "static/js/app.e8f668a6.chunk.js"
   ]
 }
