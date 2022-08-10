@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/static/js/app.e8f668a6.chunk.js",
-    "app.js.map": "/static/js/app.e8f668a6.chunk.js.map",
+    "app.js": "/static/js/app.78b78e60.chunk.js",
+    "app.js.map": "/static/js/app.78b78e60.chunk.js.map",
     "runtime~app.js": "/static/js/runtime~app.2e9f1821.js",
     "runtime~app.js.map": "/static/js/runtime~app.2e9f1821.js.map",
-    "static/js/2.b1edc870.chunk.js": "/static/js/2.b1edc870.chunk.js",
-    "static/js/2.b1edc870.chunk.js.map": "/static/js/2.b1edc870.chunk.js.map",
+    "static/js/2.080e3083.chunk.js": "/static/js/2.080e3083.chunk.js",
+    "static/js/2.080e3083.chunk.js.map": "/static/js/2.080e3083.chunk.js.map",
     "fonts/AbdoMaster.ttf": "/./fonts/AbdoMaster.ttf",
     "favicon-16.png": "/favicon-16.png",
     "favicon-32.png": "/favicon-32.png",
@@ -13,9 +13,11 @@
     "index.html": "/index.html",
     "manifest.json": "/manifest.json",
     "serve.json": "/serve.json",
-    "static/js/2.b1edc870.chunk.js.LICENSE.txt": "/static/js/2.b1edc870.chunk.js.LICENSE.txt",
+    "static/js/2.080e3083.chunk.js.LICENSE.txt": "/static/js/2.080e3083.chunk.js.LICENSE.txt",
     "static/media/Settings.png": "/static/media/Settings.cecb1d78.png",
     "static/media/descriptionIcon.png": "/static/media/descriptionIcon.9e6384a1.png",
+    "static/media/emojie.png": "/static/media/emojie.8f0ecc63.png",
+    "static/media/emojieActive.png": "/static/media/emojieActive.7992d9d3.png",
     "static/media/expandMore.png": "/static/media/expandMore.79ac5f89.png",
     "static/media/login_avatar_3.png": "/static/media/login_avatar_3.1456fb69.png",
     "static/media/login_forgot_password2.png": "/static/media/login_forgot_password2.e3037937.png",
@@ -49,7 +51,7 @@
   },
   "entrypoints": [
     "static/js/runtime~app.2e9f1821.js",
-    "static/js/2.b1edc870.chunk.js",
-    "static/js/app.e8f668a6.chunk.js"
+    "static/js/2.080e3083.chunk.js",
+    "static/js/app.78b78e60.chunk.js"
   ]
 }
