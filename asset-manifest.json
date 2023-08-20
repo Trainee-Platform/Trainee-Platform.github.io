@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.eac1062d.css",
-    "main.js": "/static/js/main.7a9e96d4.js",
+    "main.js": "/static/js/main.605cf9e9.js",
     "static/js/380.4fff9e86.js": "/static/js/380.4fff9e86.js",
     "static/media/AbdoMaster.ttf": "/static/media/AbdoMaster.5f7e47983585a8db0970.ttf",
     "static/media/trainee_ar.png": "/static/media/trainee_ar.0e247acca7229ba24e90.png",
@@ -45,12 +45,12 @@
     "manifest.json": "/manifest.json",
     "serve.json": "/serve.json",
     "main.eac1062d.css.map": "/static/css/main.eac1062d.css.map",
-    "main.7a9e96d4.js.map": "/static/js/main.7a9e96d4.js.map",
+    "main.605cf9e9.js.map": "/static/js/main.605cf9e9.js.map",
     "380.4fff9e86.js.map": "/static/js/380.4fff9e86.js.map"
   },
   "entrypoints": [
     "static/js/380.4fff9e86.js",
     "static/css/main.eac1062d.css",
-    "static/js/main.7a9e96d4.js"
+    "static/js/main.605cf9e9.js"
   ]
 }
